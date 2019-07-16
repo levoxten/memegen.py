@@ -1,2 +1,3 @@
 # memegen.py
-A meme generator for Python 3.7.1.
+
+A MEME GENERATOR FOR PYTHON 3.7.1
